@@ -1,124 +1,116 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Maruf Billah terminal banner" width="100%"/>
+
 # 👋 Hey, I'm Maruf Billah!
 
-**Assalamualaikum** 🌙
-**Welcome to my GitHub homepage!** 🚀
+**Assalamualaikum** 🌙 &nbsp;|&nbsp; Welcome to my GitHub homepage!
 
-**SyntaxMaruf · CSE Student · Aspiring AI & Cybersecurity Engineer**
+### `SyntaxMaruf` · CSE Student @ Daffodil International University · Exploring Next: Python 🐍
 
-<img src="assets/banner.svg" alt="SyntaxMaruf terminal banner" width="100%" />
+<img src="https://img.shields.io/github/followers/SyntaxMaruf?label=Followers&style=for-the-badge&logo=github&color=0a0a0a&labelColor=00a86b" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=ffb000&label=PROFILE+VIEWS" alt="views"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
+Assalamualaikum! I'm **Maruf Billah**, but online I go by **SyntaxMaruf**. 👋
 
-Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. I love writing C, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** or an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
+I study **Computer Science & Engineering at Daffodil International University**. I like turning a messy problem into clean logic, and I'm doing that every day through code. Right now I'm sharpening my **C** fundamentals and practicing competitive programming, with **Python** coming up next.
 
-🏫 **Campus:** Daffodil International University (DIU)
-🧠 **Focus:** C programming & problem solving
-🎯 **Dream Roles:** Cybersecurity Engineer / AI Engineer
-🌱 **Currently Learning:** C fundamentals, logic building
-🐍 **Next Exploring:** Python
-⚡ **Mindset:** Debug. Learn. Repeat.
+- 🎓 **University:** Daffodil International University
+- 💻 **Department:** Computer Science & Engineering
+- 🎯 **Career Goal:** AI Engineer / Cybersecurity Engineer
+- 🧩 **Practicing:** Problem solving & Data Structures
+- 🐍 **Exploring Next:** Python
+- 🔨 **Next Step:** Turning my lab code into real projects
+- ⚡ **Motto:** Debug. Learn. Build. Repeat.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🛠️ Tech Arsenal
 
-<table>
-  <tr>
-    <td><b>⌨️ Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
-      <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
-    </td>
-  </tr>
-</table>
+### 💻 Languages
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://skillicons.dev/icons?i=c,py,html,css,js" alt="languages"/>
 
-## 🏆 Achievements & Certificates
+> 🐍 Python: **exploring next** &nbsp;·&nbsp; C: **main language right now**
 
-| 🎖️ Event | 📍 Result | 📜 Certificate |
-|---|---|---|
-| **AI Dev Fest 2026** | Attended the **Prompt Battle** | ✅ Received |
-| **TAKE OFF Programming Contest** | Preliminary: **40th** · Final Round: **32nd** | ✅ Received |
+### ⚙️ Tools
 
-## 🧩 Problem Solving Arena
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/>
+<img src="https://img.shields.io/badge/Code::Blocks-IDE-00a86b?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks"/>
 
-<img src="https://img.shields.io/badge/TOPH-175%2B%20Solved-39ff14?style=for-the-badge&labelColor=0d1117" alt="TOPH" />
-<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces" />
-<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
-<img src="https://img.shields.io/badge/Vjudge-Active-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Vjudge" />
-<img src="https://img.shields.io/badge/beecrowd-Active-ffb000?style=for-the-badge&labelColor=0d1117" alt="beecrowd" />
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 🏆 Achievements
+
+| 🏅 Event | 📌 Result |
+|:--|:--|
+| **AI Dev Fest 2026** | Attended the **Prompt Battle** &nbsp;📜 Certificate earned |
+| **TAKE OFF Programming Contest** | **40th** in Preliminary → **32nd** in Final &nbsp;📜 Certificate earned |
+
+### 🧩 Problem Solving
+
+<img src="https://img.shields.io/badge/TOPH-175%2B_Solved-ffb000?style=for-the-badge" alt="TOPH"/>
+<img src="https://img.shields.io/badge/Codeforces-Solving-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+<img src="https://img.shields.io/badge/LeetCode-Solving-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/VJudge-Solving-00a86b?style=for-the-badge" alt="VJudge"/>
+<img src="https://img.shields.io/badge/Beecrowd-Solving-3b82f6?style=for-the-badge" alt="Beecrowd"/>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=ffb000&border_color=30363d" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=ffb000&border_color=30363d" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyntaxMaruf&background=0d1117&ring=39ff14&fire=ffb000&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" alt="Streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&hide_border=false&rank_icon=github&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="top languages"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxMaruf&bg_color=0d1117&color=39ff14&line=39ff14&point=ffb000&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+<img src="https://streak-stats.demolab.com?user=SyntaxMaruf&background=0A0A0A&ring=00FF9C&fire=FFB000&currStreakLabel=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=1F2A24" alt="streak"/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxMaruf&bg_color=0a0a0a&color=00ff9c&line=ffb000&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
+<div align="center">
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📂 My Repositories
 
-<!--
-  নতুন repo যোগ করার নিয়ম:
-  নিচের যেকোনো একটা <a ...>...</a> লাইন কপি করে নতুন লাইনে বসান,
-  তারপর লাইনের ভেতরে দুই জায়গায় repo-র নাম বদলে দিন (একটা href-এ, আরেকটা &repo= এর পরে)।
+<!-- নতুন repo যোগ করতে: নিচের যেকোনো একটা <a> লাইন কপি করে repo= এর পরে নতুন repo-র নাম বসান -->
+<div align="center">
+
+<a href="https://github.com/SyntaxMaruf/CSE124-in-Lab-Codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=CSE124-in-Lab-Codes&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
+<a href="https://github.com/SyntaxMaruf/Lab-Evaluation-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Lab-Evaluation-1&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
+<a href="https://github.com/SyntaxMaruf/Google-Drive-Link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Google-Drive-Link&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<!-- নিজের লিংক বসিয়ে এই comment-এর শুরু আর শেষের চিহ্ন সরিয়ে দিন
+<a href="https://www.facebook.com/YOUR_ID"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 -->
 
-<p align="center">
-  <a href="https://github.com/SyntaxMaruf/CSE124-in-Lab-Codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=CSE124-in-Lab-Codes&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=ffb000&border_color=30363d" alt="CSE124-in-Lab-Codes" /></a>
-  <a href="https://github.com/SyntaxMaruf/Lab-Evaluation-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Lab-Evaluation-1&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=ffb000&border_color=30363d" alt="Lab-Evaluation-1" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/SyntaxMaruf/Google-Drive-Link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Google-Drive-Link&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&icon_color=ffb000&border_color=30363d" alt="Google-Drive-Link" /></a>
-</p>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🤝 Connect
-
-<!--
-  নিজের Email আর Facebook যোগ করতে চাইলে এই কমেন্টের নিচে একটা নতুন লাইনে এই ব্যাজ বসান:
-  Email: https://img.shields.io/badge/Email-ffb000?style=for-the-badge&logo=gmail&logoColor=black  -> mailto:YOUR_EMAIL
-  Facebook: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white -> YOUR_FB_LINK
--->
-
-<a href="https://github.com/SyntaxMaruf"><img src="https://img.shields.io/badge/GitHub-SyntaxMaruf-39ff14?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=SyntaxMaruf&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
-
-<img src="assets/footer.svg" width="100%" alt="while(alive){ learn(); code(); repeat(); }" />
+</div>
