@@ -163,7 +163,7 @@ Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SyntaxMaruf&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+<img src="assets/trophie.jpg" alt="Trophies" />
 
 </div>
 
@@ -198,6 +198,6 @@ while (!master) {
 
 <img src="assets/footer.svg" width="100%" alt="while(alive){ learn(); code(); repeat(); }"/>
 
-**Thanks for stopping by! ⭐ A star would make my day.**
+### **Thanks for stopping by! ⭐ A star would make my day.**
 
 </div>
