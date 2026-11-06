@@ -1,65 +1,116 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Maruf Billah terminal banner" width="100%"/>
+<img src="assets/banner.svg" alt="Maruf Billah — SyntaxMaruf" width="100%"/>
 
-# 👋 Hey, I'm Maruf Billah!
+<br/>
 
-**Assalamualaikum** 🌙 &nbsp;|&nbsp; Welcome to my GitHub homepage!
+![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/SyntaxMaruf?style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
+![Repos](https://img.shields.io/badge/REPOS-3-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
+![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
-### `SyntaxMaruf` · CSE Student @ Daffodil International University · Exploring Next: Python 🐍
-
-<img src="https://img.shields.io/github/followers/SyntaxMaruf?label=Followers&style=for-the-badge&logo=github&color=0a0a0a&labelColor=00a86b" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=ffb000&label=PROFILE+VIEWS" alt="views"/>
+### **Code • Learn • Build**
+*`CSE` · `C Programmer` · `Problem Solver`*
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-## 🧑‍💻 About Me
+## 🖥️ `whoami.c`
 
-Assalamualaikum! I'm **Maruf Billah**, but online I go by **SyntaxMaruf**. 👋
+```c
+#include <stdio.h>
 
-I study **Computer Science & Engineering at Daffodil International University**. I like turning a messy problem into clean logic, and I'm doing that every day through code. Right now I'm sharpening my **C** fundamentals and practicing competitive programming, with **Python** coming up next.
+typedef struct {
+    const char *name;
+    const char *handle;
+    const char *field;
+    const char *main_language;
+    const char *focus[3];
+} Engineer;
 
-- 🎓 **University:** Daffodil International University
-- 💻 **Department:** Computer Science & Engineering
-- 🎯 **Career Goal:** AI Engineer / Cybersecurity Engineer
-- 🧩 **Practicing:** Problem solving & Data Structures
-- 🐍 **Exploring Next:** Python
-- 🔨 **Next Step:** Turning my lab code into real projects
-- ⚡ **Motto:** Debug. Learn. Build. Repeat.
+int main(void) {
+    Engineer maruf = {
+        .name          = "Maruf Billah",
+        .handle        = "SyntaxMaruf",
+        .field         = "Computer Science & Engineering",
+        .main_language = "C",
+        .focus         = { "Problem Solving", "Data Structures", "Clean Code" }
+    };
+
+    printf("Hello, World! I'm %s.\n", maruf.name);
+    printf("Bugs are just features I haven't understood yet.\n");
+    return 0;
+}
+```
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🛠️ Tech Arsenal
+## 📡 System Status
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=c,py,html,css,js" alt="languages"/>
-
-> 🐍 Python: **exploring next** &nbsp;·&nbsp; C: **main language right now**
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/>
-<img src="https://img.shields.io/badge/Code::Blocks-IDE-00a86b?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks"/>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## 🏆 Achievements
-
-| 🏅 Event | 📌 Result |
+| 🔧 Module | 📋 Details |
 |:--|:--|
-| **AI Dev Fest 2026** | Attended the **Prompt Battle** &nbsp;📜 Certificate earned |
-| **TAKE OFF Programming Contest** | **40th** in Preliminary → **32nd** in Final &nbsp;📜 Certificate earned |
+| 👤 **Name** | Maruf Billah (`SyntaxMaruf`) |
+| 🎓 **Field** | Computer Science & Engineering |
+| 💻 **Main Language** | C |
+| 🎯 **Current Focus** | Strengthening C fundamentals, Data Structures & lab problem solving |
+| 🌱 **Exploring Next** | C++, Algorithms, Linux, Git workflow |
+| 🚀 **Mission** | Build real projects, not just tutorials |
+| 💬 **Ask me about** | C programming, lab codes, learning CSE step by step |
 
-### 🧩 Problem Solving
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<img src="https://img.shields.io/badge/TOPH-175%2B_Solved-ffb000?style=for-the-badge" alt="TOPH"/>
-<img src="https://img.shields.io/badge/Codeforces-Solving-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-<img src="https://img.shields.io/badge/LeetCode-Solving-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/VJudge-Solving-00a86b?style=for-the-badge" alt="VJudge"/>
-<img src="https://img.shields.io/badge/Beecrowd-Solving-3b82f6?style=for-the-badge" alt="Beecrowd"/>
+## 🧰 Tech Arsenal
+
+<!-- Remove any skill from the icons line that you have not learned yet. -->
+
+**⚔️ Daily Drivers**
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,git,github,vscode,linux,bash&theme=dark)](https://skillicons.dev)
+
+**🔭 On My Radar**
+
+![Python](https://img.shields.io/badge/Python-Exploring-FFB000?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0f0c)
+![DSA](https://img.shields.io/badge/Data_Structures-Learning-3DDC84?style=for-the-badge&labelColor=0b0f0c)
+![Algorithms](https://img.shields.io/badge/Algorithms-Learning-FFB000?style=for-the-badge&labelColor=0b0f0c)
+![Linux](https://img.shields.io/badge/Linux-Exploring-3DDC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=0b0f0c)
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📈 Skill Loading Bars
+
+<!-- Edit the bars and percentages to match your honest skill level -->
+
+```text
+C Programming      ▰▰▰▰▰▰▱▱▱▱  60%   ← main weapon
+Problem Solving    ▰▰▰▰▰▱▱▱▱▱  50%
+Data Structures    ▰▰▰▱▱▱▱▱▱▱  30%   ← loading...
+Algorithms         ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
+Git & GitHub       ▰▰▰▰▱▱▱▱▱▱  40%
+Linux              ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
+```
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🗂️ My Repositories
+
+| 📁 Repository | 📝 What's inside | 🛠️ Stack |
+|:--|:--|:--:|
+| [**CSE124-in-Lab-Codes**](https://github.com/SyntaxMaruf/CSE124-in-Lab-Codes) | Every in-lab code I solved during the course | `C` |
+| [**Lab-Evaluation-1**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | Lab evaluation solutions and practice files | `C` |
+| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🗺️ Roadmap
+
+- [x] 🧱 Write first C programs & solve lab problems
+- [x] 📦 Organize lab codes on GitHub
+- [ ] 🧩 Master Data Structures (Array, Linked List, Stack, Queue, Tree)
+- [ ] ⚙️ Practice Algorithms (Sorting, Searching, Recursion)
+- [ ] 🛠️ Build a real C/C++ project (not a tutorial)
+- [ ] 🐧 Get comfortable with Linux & terminal
+- [ ] 🌍 Contribute to an open-source project
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -67,38 +118,53 @@ I study **Computer Science & Engineering at Daffodil International University**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&hide_border=false&rank_icon=github&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&hide_border=true&bg_color=0b0f0c&title_color=FFB000&icon_color=3DDC84&text_color=E6EDF3&ring_color=3DDC84" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&hide_border=true&bg_color=0b0f0c&title_color=FFB000&text_color=E6EDF3" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=SyntaxMaruf&background=0A0A0A&ring=00FF9C&fire=FFB000&currStreakLabel=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=1F2A24" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=SyntaxMaruf&hide_border=true&background=0b0f0c&ring=3DDC84&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8b949e" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxMaruf&bg_color=0a0a0a&color=00ff9c&line=ffb000&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxMaruf&bg_color=0b0f0c&color=3DDC84&line=FFB000&point=E6EDF3&area=true&area_color=3DDC84&hide_border=true&radius=10" alt="Activity graph" width="100%"/>
 
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 📂 My Repositories
+## 🏆 Trophies
 
-<!-- নতুন repo যোগ করতে: নিচের যেকোনো একটা <a> লাইন কপি করে repo= এর পরে নতুন repo-র নাম বসান -->
 <div align="center">
 
-<a href="https://github.com/SyntaxMaruf/CSE124-in-Lab-Codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=CSE124-in-Lab-Codes&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
-<a href="https://github.com/SyntaxMaruf/Lab-Evaluation-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Lab-Evaluation-1&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
-<a href="https://github.com/SyntaxMaruf/Google-Drive-Link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxMaruf&repo=Google-Drive-Link&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=SyntaxMaruf&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 💡 Developer Philosophy
+
+```c
+while (!master) {
+    read_the_error_message();   // errors are friends, not enemies
+    debug_with_patience();
+    write_cleaner_code();
+    commit_daily();
+}
+```
+
+> *"Today's small code is tomorrow's big software."*
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -106,11 +172,17 @@ I study **Computer Science & Engineering at Daffodil International University**.
 
 <div align="center">
 
-<!-- নিজের লিংক বসিয়ে এই comment-এর শুরু আর শেষের চিহ্ন সরিয়ে দিন
-<a href="https://www.facebook.com/YOUR_ID"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matuf-billah-2653a142b)
+[![GitHub](https://img.shields.io/badge/GitHub-SyntaxMaruf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyntaxMaruf)
+<!-- Uncomment the lines below and add your own details
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
 -->
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="while(alive){ learn(); code(); repeat(); }"/>
+
+**Thanks for stopping by! ⭐ A star would make my day.**
 
 </div>
