@@ -65,12 +65,10 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
  ### 💻 Programming Languages
 <br>
-
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css&perline=5" alt="Languages" />
 
-### ⚙️ Tools I Use
+### 🛠️ Tools 
 <br>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
 <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
 
@@ -94,9 +92,8 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
 ## 📈 Skill Loading Bars
 
-<!-- Edit the bars and percentages to match your honest skill level -->
-
-```text
+<pre style="font-size: 16px;">
+```text 
 C Programming      ▰▰▰▰▰▰▰▰▱▱  80%   ← main weapon
 Problem Solving    ▰▰▰▰▰▰▰▱▱▱  70%   ← loading...
 Data Structures    ▰▰▰▰▰▰▰▰▰▱  90%   ← main weapon
@@ -104,6 +101,7 @@ Algorithms         ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
 Git & GitHub       ▰▰▰▰▰▰▱▱▱▱  60%   ← loading...
 Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 ```
+</pre>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
