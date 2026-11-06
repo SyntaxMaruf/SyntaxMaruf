@@ -63,7 +63,6 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
 ## 🧰 Tech Arsenal
 
-<table>
   <tr>
     <td><b>⌨️ Languages</b></td>
     <td>
@@ -77,7 +76,6 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
       <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
     </td>
   </tr>
-</table>
 
 **🔭 On My Radar**
 
