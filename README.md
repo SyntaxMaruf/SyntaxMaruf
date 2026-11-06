@@ -50,24 +50,34 @@ int main(void) {
 
 Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. I love writing C, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
 
-🏫 **University:** Daffodil International University
-💻 **Department:** Computer Science & Engineering
-🧠 **Main Language:** C
-🎯 **Dream Goals:** Cybersecurity Engineer & AI Engineer
-🌱 **Currently Learning:** Data Structures, Problem Solving, Algorithms, etc.
-🐍 **Next Exploring:** Python, C++, Algorithms, Linux, Git workflow, etc.
-⚡ **Mindset:** Debug. Learn. Repeat.
-🚀 **Mission:**	Build real projects, not just tutorials.
+🏫 **University:** Daffodil International University <br>
+💻 **Department:** Computer Science & Engineering <br>
+🧠 **Main Language:** C <br>
+🎯 **Dream Goals:** Cybersecurity Engineer & AI Engineer <br>
+🌱 **Currently Learning:** Data Structures, Problem Solving, Algorithms, etc. <br>
+🐍 **Next Exploring:** Python, C++, Algorithms, Linux, Git workflow, etc.<br>
+⚡ **Mindset:** Debug. Learn. Repeat.<br>
+🚀 **Mission:**	Build real projects, not just tutorials.<br>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Tech Arsenal
 
-<!-- Remove any skill from the icons line that you have not learned yet. -->
-
-**⚔️ Daily Drivers**
-
-[![Skills](https://skillicons.dev/icons?i=c,cpp,git,github,vscode,linux,bash&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><b>⌨️ Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
+      <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
+    </td>
+  </tr>
+</table>
 
 **🔭 On My Radar**
 
