@@ -9,14 +9,14 @@
 ![Repos](https://img.shields.io/badge/REPOS-3-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
-### **কোড করি • শিখি • বানাই**
+### **Code • Learn • Build**
 *`CSE` · `C Programmer` · `Problem Solver`*
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-## 🖥️ `Who @m I.c`
+## 🖥️ `whoami.c`
 
 ```c
 #include <stdio.h>
@@ -62,7 +62,7 @@ int main(void) {
 
 ## 🧰 Tech Arsenal
 
-<!-- যেগুলো তুমি এখনো শেখোনি সেগুলো skillicons লাইন থেকে মুছে দাও। সৎ থাকাই সবচেয়ে ভালো ইম্প্রেশন। -->
+<!-- Remove any skill from the icons line that you have not learned yet. -->
 
 **⚔️ Daily Drivers**
 
@@ -79,7 +79,7 @@ int main(void) {
 
 ## 📈 Skill Loading Bars
 
-<!-- নিজের সৎ মূল্যায়ন অনুযায়ী ▰ আর ▱ বদলে নাও -->
+<!-- Edit the bars and percentages to match your honest skill level -->
 
 ```text
 C Programming      ▰▰▰▰▰▰▱▱▱▱  60%   ← main weapon
@@ -157,14 +157,14 @@ Linux              ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
 
 ```c
 while (!master) {
-    read_the_error_message();   // এরর বন্ধু, শত্রু না
+    read_the_error_message();   // errors are friends, not enemies
     debug_with_patience();
     write_cleaner_code();
     commit_daily();
 }
 ```
 
-> *"আজকের ছোট কোড, আগামীকালের বড় সফটওয়্যার।"*
+> *"Today's small code is tomorrow's big software."*
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -174,7 +174,7 @@ while (!master) {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matuf-billah-2653a142b)
 [![GitHub](https://img.shields.io/badge/GitHub-SyntaxMaruf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyntaxMaruf)
-<!-- নিচের লাইনগুলো আনকমেন্ট করে নিজের তথ্য বসাও
+<!-- Uncomment the lines below and add your own details
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
 -->
@@ -183,6 +183,6 @@ while (!master) {
 
 <img src="assets/footer.svg" width="100%" alt="while(alive){ learn(); code(); repeat(); }"/>
 
-**Thanks for stopping by! ⭐ একটা star দিলে খুশি হবো।**
+**Thanks for stopping by! ⭐ A star would make my day.**
 
 </div>
