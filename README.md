@@ -65,7 +65,7 @@ I study **Computer Science & Engineering at Daffodil International University**.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center"> 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&hide_border=false&rank_icon=github&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=00ff9c&icon_color=ffb000&text_color=c9d1d9&border_color=1f2a24" alt="top languages"/>
