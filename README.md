@@ -2,15 +2,15 @@
 
 <img src="assets/banner.svg" alt="Maruf Billah — SyntaxMaruf" width="100%"/>
 
-<br/><br>
+<br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/SyntaxMaruf?style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
 ![Repos](https://img.shields.io/badge/REPOS-3-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
-### **Code • Learn • Build • Debug**
-*`CSE` · `C Programmer` · `Problem Solver`*
+### **Code • Learn • Build • Debug • Repeat**
+**`SyntaxMaruf` • CSE • Daffodil International University**
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -48,7 +48,7 @@ int main(void) {
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing C, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
+Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
 
 🏫 **University:** Daffodil International University <br>
 💻 **Department:** Computer Science & Engineering <br>
@@ -63,19 +63,16 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
 ## 🧰 Tech Arsenal
 
-  <tr>
-    <td><b>⌨️ Languages</b></td>
-    <td><br>
-      <img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Tools</b></td>
-    <td><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
-      <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
-    </td>
-  </tr>
+ ### 💻 Programming Languages
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css&perline=5" alt="Languages" />
+
+### ⚙️ Tools I Use
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
+<img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
 
 **🔭 On My Radar**
 
@@ -112,7 +109,7 @@ Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 
 ## 🧩 Problem Solving Arena
 
-<img src="https://img.shields.io/badge/TOPH-175%2B%20Solved-39ff14?style=for-the-badge&labelColor=0d1117" alt="TOPH" />
+<img src="https://img.shields.io/badge/TOPH-200%2B%20Solved-39ff14?style=for-the-badge&labelColor=0d1117" alt="TOPH" />
 <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces" />
 <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
 <img src="https://img.shields.io/badge/Vjudge-Active-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Vjudge" />
@@ -146,12 +143,7 @@ Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxMaruf&show_icons=true&hide_border=true&bg_color=0b0f0c&title_color=FFB000&icon_color=3DDC84&text_color=E6EDF3&ring_color=3DDC84" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxMaruf&layout=compact&hide_border=true&bg_color=0b0f0c&title_color=FFB000&text_color=E6EDF3" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=SyntaxMaruf&hide_border=true&background=0b0f0c&ring=3DDC84&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8b949e" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxMaruf&bg_color=0b0f0c&color=3DDC84&line=FFB000&point=E6EDF3&area=true&area_color=3DDC84&hide_border=true&radius=10" alt="Activity graph" width="100%"/>
 
 </div>
 
@@ -192,7 +184,7 @@ while (!master) {
 }
 ```
 
-> *"Today's small code is tomorrow's big software."*
+> ***"Today's small code is tomorrow's big software."***
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -202,10 +194,9 @@ while (!master) {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matuf-billah-2653a142b)
 [![GitHub](https://img.shields.io/badge/GitHub-SyntaxMaruf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyntaxMaruf)
-<!-- Uncomment the lines below and add your own details
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
--->
+
 
 <br/>
 
