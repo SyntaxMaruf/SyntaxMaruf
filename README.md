@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Maruf Billah — SyntaxMaruf" width="100%"/>
 
-<br/>
+<br/><br>
 
 ![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/SyntaxMaruf?style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
@@ -65,13 +65,13 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
   <tr>
     <td><b>⌨️ Languages</b></td>
-    <td>
+    <td><br>
       <img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td><b>🧰 Tools</b></td>
-    <td>
+    <td><b>🛠️ Tools</b></td>
+    <td><br>
       <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
       <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
     </td>
