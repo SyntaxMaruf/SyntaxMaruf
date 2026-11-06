@@ -65,7 +65,7 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
  ### 💻 Programming Languages
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css&perline=5" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
 
 ### 🛠️ Tools 
 <br>
@@ -93,14 +93,12 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 ## 📈 Skill Loading Bars
 
 <pre style="font-size: 16px;">
-```text 
 C Programming      ▰▰▰▰▰▰▰▰▱▱  80%   ← main weapon
 Problem Solving    ▰▰▰▰▰▰▰▱▱▱  70%   ← loading...
 Data Structures    ▰▰▰▰▰▰▰▰▰▱  90%   ← main weapon
 Algorithms         ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
 Git & GitHub       ▰▰▰▰▰▰▱▱▱▱  60%   ← loading...
 Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
-```
 </pre>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
