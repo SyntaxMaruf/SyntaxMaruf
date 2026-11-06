@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Maruf Billah!
 
-**Assalamualaikum** 🌙 &nbsp;|&nbsp; Welcome to my GitHub homepage!
+ &nbsp;|&nbsp; Welcome to my GitHub homepage!
 
 ### `SyntaxMaruf` · CSE Student @ Daffodil International University · Exploring Next: Python 🐍
 
