@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="t">
+<title id="t">Contest and event achievements</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2b"/><stop offset="1" stop-color="#182b38"/></linearGradient></defs>
+<rect x="4" y="4" width="992" height="242" rx="20" fill="url(#g)" stroke="#36546a" stroke-width="3"/>
+<g font-family="Arial, sans-serif">
+<text x="35" y="48" fill="#ffc857" font-size="25" font-weight="bold">🏆 COMPETITIVE PROGRAMMING</text>
+<text x="35" y="91" fill="#e7f1fb" font-size="22" font-weight="bold">TAKE OFF Programming Contest</text>
+<text x="35" y="125" fill="#9edfc9" font-size="19">Preliminary Round: 40th place</text>
+<text x="35" y="155" fill="#9edfc9" font-size="19">Final Round: 32nd place · Certificate received</text>
+<path d="M520 35V215" stroke="#36546a" stroke-width="2"/>
+<text x="555" y="48" fill="#ffc857" font-size="25" font-weight="bold">🤖 AI &amp; PROMPTING</text>
+<text x="555" y="91" fill="#e7f1fb" font-size="22" font-weight="bold">AI Dev Fest 2026</text>
+<text x="555" y="125" fill="#9edfc9" font-size="19">Attended the Prompt Battle event</text>
+<text x="555" y="155" fill="#9edfc9" font-size="19">Certificate received</text>
+<text x="35" y="215" fill="#7f98ae" font-size="15">Learn • Participate • Improve</text>
+</g></svg>

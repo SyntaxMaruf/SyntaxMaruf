@@ -1,0 +1,25 @@
+SyntaxMaruf GitHub Profile আপলোড নির্দেশিকা
+
+১) ZIP ফাইলটি Extract করুন।
+২) GitHub-এ https://github.com/SyntaxMaruf/SyntaxMaruf খুলুন।
+৩) Add file → Upload files চাপুন।
+৪) Extract করা ফোল্ডারের ভেতরের README.md, assets ফোল্ডার এবং .github ফোল্ডার আপলোড করুন।
+   গুরুত্বপূর্ণ: .github ফোল্ডারটি যেন বাদ না যায়।
+৫) Commit changes চাপুন।
+
+Contribution Snake চালু করতে:
+১) Repository → Settings → Actions → General খুলুন।
+২) Workflow permissions-এ Read and write permissions নির্বাচন করে Save করুন।
+৩) Actions ট্যাবে যান।
+৪) Generate Contribution Snake workflow নির্বাচন করে Run workflow চাপুন।
+৫) workflow সফল হলে README-তে snake দেখা যাবে। GitHub Actions চালাতে কয়েক মিনিট লাগতে পারে।
+
+নিজের তথ্য যাচাই:
+- LinkedIn লিংকটি আপাতত LinkedIn-এর সাধারণ ঠিকানা; নিজের নির্দিষ্ট প্রোফাইল URL বসাতে হবে।
+- TOPh-এ 200+ solved আপনার দেওয়া তথ্য অনুযায়ী লেখা হয়েছে।
+- VJudge, Codeforces, LeetCode ও beecrowd-এর নির্দিষ্ট profile username না থাকায় আপাতত তাদের মূল ওয়েবসাইটে লিংক দেওয়া হয়েছে।
+- Python, C++, HTML ও JavaScript-কে শেখার/অন্বেষণের পর্যায়ে বোঝানো হয়েছে; নিজের বাস্তব দক্ষতা অনুযায়ী পরে পরিবর্তন করবেন।
+- Contest ও event achievement আপনার দেওয়া তথ্য অনুযায়ী লেখা হয়েছে।
+
+নোট:
+GitHub README-তে SVG animation কিছু ক্ষেত্রে নিরাপত্তাজনিত কারণে স্থির ছবি হিসেবে দেখা যেতে পারে। GitHub-এ আপলোডের পর একবার পরীক্ষা করে নেবেন।
