@@ -56,7 +56,7 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 | 📁 Repository | 📝 What's inside | 🛠️ Stack |
 |:--|:--|:--:|
 | [**Restaurant-Order-System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo | `C` |
-| [**Lab-Evaluation-1**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | Lab evaluation solutions and practice files | `C` |
+| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes | `C` |
 | [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
