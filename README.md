@@ -16,36 +16,6 @@
 
 </div>
 
-## 🖥️ `#include<Who Am I?.h>.c`
-
-```c
-#include <stdio.h>
-
-typedef struct {
-    const char *name;
-    const char *handle;
-    const char *field;
-    const char *main_language;
-    const char *focus[3];
-} Engineer;
-
-int main(void) {
-    Engineer maruf = {
-        .name          = "Maruf Billah",
-        .handle        = "SyntaxMaruf",
-        .field         = "Computer Science & Engineering",
-        .main_language = "C",
-        .focus         = { "Problem Solving", "Data Structures", "Clean Code" }
-    };
-
-    printf("Hello, World! I'm %s.\n", maruf.name);
-    printf("Bugs are just features I haven't understood yet.\n");
-    return 0;
-}
-```
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
@@ -65,7 +35,7 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
  ### 💻 Programming Languages
 <br>
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=5" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=5" alt="Languages" />
 
 ### 🛠️ Tools 
 <br>
