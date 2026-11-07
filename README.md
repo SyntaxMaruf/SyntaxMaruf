@@ -99,6 +99,7 @@ Data Structures    ▰▰▰▰▰▰▰▰▰▱  90%   ← main weapon
 Algorithms         ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
 Git & GitHub       ▰▰▰▰▰▰▱▱▱▱  60%   ← loading...
 Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
+Python             ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 </pre>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
@@ -149,11 +150,7 @@ Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/output/github-snake-dark.svg"/>
-</picture>
+<img src="assets/snake.svg" alt="Animated snake eating bugs" width="100%"/>
 
 </div>
 
