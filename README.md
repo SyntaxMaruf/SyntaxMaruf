@@ -81,6 +81,16 @@ Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science 
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
+## 🗂️ My Coding Journey
+
+| 📁 Repository | 📝 What's inside | 🛠️ Stack |
+|:--|:--|:--:|
+| [**Restaurant-Order-System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo | `C` |
+| [**Lab-Evaluation-1**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | Lab evaluation solutions and practice files | `C` |
+| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
 ## 🏆 Achievements & Certificates
 
 | 🎖️ Event | 📍 Result | 📜 Certificate |
@@ -113,16 +123,6 @@ Python             ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 <img src="https://img.shields.io/badge/beecrowd-Active-ffb000?style=for-the-badge&labelColor=0d1117" alt="beecrowd" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
-## 🗂️ My Repositories
-
-| 📁 Repository | 📝 What's inside | 🛠️ Stack |
-|:--|:--|:--:|
-| [**CSE124-in-Lab-Codes**](https://github.com/SyntaxMaruf/CSE124-in-Lab-Codes) | Every in-lab code I solved during the course | `C` |
-| [**Lab-Evaluation-1**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | Lab evaluation solutions and practice files | `C` |
-| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🗺️ Roadmap
 
