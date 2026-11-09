@@ -10,7 +10,7 @@
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
 ### **Code • Learn • Build • Debug • Repeat**
-**`SyntaxMaruf` • CSE • Daffodil International University**
+**`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>**
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
