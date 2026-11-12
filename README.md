@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
+Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
 
 🏫 **University:** Daffodil International University <br>
 💻 **Department:** Computer Science & Engineering <br>
@@ -86,8 +86,8 @@ Python             ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 
 ## 🧩 Problem Solving Arena
 
-<img src="https://img.shields.io/badge/TOPH-200%2B%20Solved-39ff14?style=for-the-badge&labelColor=0d1117" alt="TOPH" />
-<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces" />
+<img src="https://img.shields.io/badge/TOPH-200%2B%20Solved-1F8ACB?style=for-the-badge&logo=TOPH&logoColor=white&labelColor=0d1117" alt="TOPH" />
+<img src="https://img.shields.io/badge/Codeforces-Active-39ff14?style=for-the-badge&labelColor=0d1117" alt="Codeforces" />
 <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
 <img src="https://img.shields.io/badge/Vjudge-Active-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Vjudge" />
 <img src="https://img.shields.io/badge/beecrowd-Active-ffb000?style=for-the-badge&labelColor=0d1117" alt="beecrowd" />
