@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+<title id="title">Maruf Billah — Visit My Portfolio</title><desc id="desc">Explore my projects and learning journey. Click the banner to open my portfolio.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b172a"/><stop offset="1" stop-color="#173e54"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="218" rx="24" fill="url(#bg)" stroke="#315469" stroke-width="2"/>
+<circle cx="890" cy="70" r="110" fill="#5eead4" opacity=".06"/>
+<text x="44" y="48" fill="#5eead4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">MEET THE DEVELOPER</text>
+<text x="44" y="98" fill="#f0f7ff" font-family="Arial, sans-serif" font-size="36" font-weight="700">Maruf Billah</text>
+<text x="44" y="132" fill="#b4cadb" font-family="Arial, sans-serif" font-size="18">Explore my projects and learning journey.</text>
+<rect x="44" y="154" width="224" height="42" rx="10" fill="#5eead4"/>
+<text x="63" y="181" fill="#0b172a" font-family="Arial, sans-serif" font-size="17" font-weight="700">Visit My Portfolio  →</text>
+<path d="M816 87l-28 23 28 23m52-46l28 23-28 23m-21-61l-19 76" fill="none" stroke="#5eead4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
