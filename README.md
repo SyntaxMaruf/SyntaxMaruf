@@ -1,176 +1,174 @@
-# 💰 Income & Expense Tracker in C
+<div align="center">
 
-> 📒 **Track your income, record your expenses, and see where your money goes.**
+<img src="assets/banner.svg" alt="Maruf Billah — SyntaxMaruf" width="100%"/>
 
-[![Maruf Billah — Visit My Portfolio](portfolio-banner.svg)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site/)
+<br/>
 
-## 👋 About Me
-🎓 I am **Maruf Billah**, a CSE student at **Daffodil International University**. I created this project during my **1st year, 3rd semester**.
+![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSyntaxMaruf&query=%24.followers&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c&v=2)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSyntaxMaruf&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=git&logoColor=white&color=3DDC84&labelColor=0b0f0c)
+![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
-## 🤖 My Idea: Learn the Logic, Build with AI
-💡 My main goal is to turn a real problem into clear program logic and explain how the solution works. I use AI as a tool to help build the project, explore ideas, and improve the result.
+### **Code • Learn • Build • Debug • Repeat**
+**`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>** <br><div align="center">
 
-🧠 This project was developed with AI assistance. My focus is on the problem, the choices behind the code, and checking the output. I am still learning C. Understanding every detail takes time, but understanding the main flow and taking responsibility for the result remain important.
+[![Maruf Billah — Visit My Portfolio](portfolio-banner.svg)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site/)</div></br>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎯 What Problem Does It Solve?
-💸 Small daily expenses are easy to forget. This program keeps income and expense entries in one place. You can see all entries, check your balance, and view totals for one month.
+</div>
 
-## ✨ Features
-| | Feature | What it does |
-| :-: | :--- | :--- |
-| ➕ | Add income | Save money you receive, such as salary or pocket money. |
-| ➖ | Add expense | Save money you spend, such as food or travel costs. |
-| 📋 | View all records | Show each entry with its ID, date, type, amount, category, and note. |
-| 💰 | View balance | Show total income minus total expenses. |
-| 📅 | Monthly summary | Show income, expenses, and net change for one month. |
-| 🗑️ | Delete a record | Find an entry by ID and ask before removing it. |
-| 💾 | File storage | Save entries automatically after an add or delete. Load them when the program starts. |
-| 🛡️ | Input checks | Check menu numbers, real dates, money amounts, and text length. |
+## 👨‍💻 About Me
 
-## 🖥️ Main Menu
-```text
-=== PERSONAL EXPENSE TRACKER ===
-1. Add income
-2. Add expense
-3. View all records
-4. View balance
-5. Monthly summary
-6. Delete a record
-0. Exit
+Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
+
+🏫 **University:** Daffodil International University <br>
+💻 **Department:** Computer Science & Engineering <br>
+🧠 **Main Language:** C <br>
+🎯 **Dream Goals:** Cybersecurity Engineer & AI Engineer <br>
+🌱 **Currently Learning:** Data Structures, Problem Solving, Algorithms, etc. <br>
+🐍 **Next Exploring:** Python, C++, Algorithms, Linux, Git workflow, etc.<br>
+⚡ **Mindset:** Debug. Learn. Repeat.<br>
+🚀 **Mission:**	Build real projects, not just tutorials.<br>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🧰 Tech Arsenal
+
+ ### 💻 Programming Languages
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&perline=5" alt="Languages" />
+
+### 🛠️ Tools 
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
+<img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
+
+**🔭 On My Radar**
+
+![Python](https://img.shields.io/badge/Python-Exploring-FFB000?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0f0c)
+![DSA](https://img.shields.io/badge/Data_Structures-Learning-3DDC84?style=for-the-badge&labelColor=0b0f0c)
+![Algorithms](https://img.shields.io/badge/Algorithms-Learning-FFB000?style=for-the-badge&labelColor=0b0f0c)
+![Linux](https://img.shields.io/badge/Linux-Exploring-3DDC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=0b0f0c)
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🗂️ My Coding Journey
+
+| 📁 Repository | 📝 What's inside | 🛠️ Stack |
+|:--|:--|:--:|
+| [**DIU-Bus-Seat-Booking-System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets | `C` |
+| [**Restaurant-Order-System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo | `C` |
+| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes | `C` |
+| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
+
+
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🏆 Achievements & Certificates
+
+| 🎖️ Event | 📍 Result | 📜 Certificate |
+|---|---|---|
+| **AI Dev Fest 2026** | Attended the **Prompt Battle** | ✅ Received |
+| **TAKE OFF Programming Contest** | Preliminary: **40th** · Final Round: **32nd** | ✅ Received |
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📈 Skill Loading Bars
+
+<pre style="font-size: 16px;">
+C Programming      ▰▰▰▰▰▰▰▰▱▱  80%   ← main weapon
+Problem Solving    ▰▰▰▰▰▰▰▱▱▱  70%   ← loading...
+Data Structures    ▰▰▰▰▰▰▰▰▰▱  90%   ← main weapon
+Algorithms         ▰▰▱▱▱▱▱▱▱▱  20%   ← loading...
+Git & GitHub       ▰▰▰▰▰▰▱▱▱▱  60%   ← loading...
+Linux              ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
+Python             ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
+</pre>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🧩 Problem Solving Arena
+
+<img src="https://img.shields.io/badge/TOPH-200%2B%20Solved-1F8ACB?style=for-the-badge&logo=TOPH&logoColor=white&labelColor=0d1117" alt="TOPH" />
+<img src="https://img.shields.io/badge/Codeforces-Active-39ff14?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces" /> 
+<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+<img src="https://img.shields.io/badge/Vjudge-Active-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Vjudge" />
+<img src="https://img.shields.io/badge/beecrowd-Active-ffb000?style=for-the-badge&labelColor=0d1117" alt="beecrowd" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🗺️ Roadmap
+
+- [x] 🧱 Write first C programs & solve problems
+- [x] 📦 Organize lab codes on GitHub
+- [ ] 🧩 Master Data Structures (Array, Linked List, Stack, Queue, Tree, Graphs)
+- [ ] ⚙️ Practice Algorithms (Sorting, Searching, Recursion)
+- [ ] 🛠️ Build a real C/C++ project (not a tutorial)
+- [ ] 🐧 Get comfortable with Linux & terminal
+- [ ] 🌍 Contribute to an open-source project
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SyntaxMaruf&hide_border=true&background=0b0f0c&ring=3DDC84&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8b949e" alt="Streak"/>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="assets/snake.svg" alt="Animated snake eating bugs" width="100%"/>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="assets/trophie.jpg" alt="Trophies" />
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 💡 Developer Philosophy
+
+```c
+while (!master) {
+    read_the_error_message();   // errors are friends, not enemies
+    debug_with_patience();
+    write_cleaner_code();
+    commit_daily();
+}
 ```
 
-## 🔄 How the Program Works
-🚀 At startup, the program reads saved entries from `expenses.txt`. If there is no data file or backup, it starts with an empty list.
+> ***"Today's small code is tomorrow's big software."***
 
-➕ To add income or an expense, choose the matching menu option. Enter a date, amount, category, and note. The program checks the input, gives the entry a new ID, and saves it.
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-📋 To view records, the program goes through the array and prints each entry. Entries stay in the order they were added.
+## 🌐 Let's Connect
 
-🧮 To calculate totals, the program adds all income amounts and all expense amounts separately. It subtracts expenses from income.
+<div align="center">
 
-📅 For a monthly summary, enter any real date in the month you want. For example, `2026-11-01` selects November 2026. The program compares the year and month of each entry.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matuf-billah-2653a142b)
+[![GitHub](https://img.shields.io/badge/GitHub-SyntaxMaruf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyntaxMaruf)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
 
-🗑️ To delete an entry, enter its ID and confirm with `1`. Enter `0` to keep it. The program shifts the later array entries left and saves the change.
 
-## 🧮 Calculation Example
-| | Item | Amount |
-| :-: | :--- | ---: |
-| 💵 | Income | BDT 1000.00 |
-| 🍔 | Food expense | BDT 80.50 |
-| 🚌 | Travel expense | BDT 50.00 |
-| ➖ | Total expenses | BDT 130.50 |
-| 💰 | Balance | **BDT 869.50** |
+<br/>
 
-💡 **Balance = total income − total expenses.** A negative balance is allowed. It means recorded expenses are higher than recorded income.
+<img src="assets/footer.svg" width="100%" alt="while(alive){ learn(); code(); repeat(); }"/>
 
-📅 **Monthly net change = income in that month − expenses in that month.** This is the change for that month, not a balance carried forward from earlier months.
+### **Thanks for stopping by! ⭐ A star would make my day.**
 
-## 🧱 How One Record Is Stored
-| | Field | Meaning | Example |
-| :-: | :--- | :--- | :--- |
-| 🔢 | `id` | Unique entry number | `1` |
-| 📅 | `date` | Date in Year-Month-Day format | `2026-11-13` |
-| 🏷️ | `type` | `I` for income, `E` for expense | `E` |
-| 💵 | `amount` | Money stored as whole poisha | `8050` means BDT 80.50 |
-| 📂 | `category` | A short group name | `Food` |
-| 📝 | `note` | A short explanation | `Lunch` |
-
-🪙 Money uses `long long` integers in poisha. This avoids floating-point rounding in money calculations. The display converts poisha back to Taka with two decimal places.
-
-## 🛠️ Functions Explained
-| | Function | Job |
-| :-: | :--- | :--- |
-| ⌨️ | `readLine()` | Read one line and reject input that is too long. |
-| 🔢 | `readNumber()` | Accept a whole number inside the allowed range. |
-| 📆 | `validDate()` | Check the format, month length, and leap year. |
-| 📅 | `readDate()` | Ask again until a valid date is entered. |
-| 🔤 | `readText()` | Accept nonblank printable English text without the pipe symbol. |
-| 💵 | `readMoney()` | Read a positive amount with up to two decimal places. |
-| 🪙 | `printMoney()` | Display poisha as Taka and poisha. |
-| 💾 | `saveData()` | Write entries to a temporary file, then replace the main data file. |
-| 📂 | `loadData()` | Load saved entries and check their structure. |
-| ➕ | `addRecord()` | Collect an entry, assign an ID, and save it. |
-| 📋 | `showRecords()` | Print all entries. |
-| 🧮 | `showSummary()` | Calculate all-time or monthly totals. |
-| 🗑️ | `deleteRecord()` | Remove an entry after confirmation. |
-| 🚀 | `main()` | Load data, show the menu, and call the selected function. |
-
-## 💾 Files and Saving
-| | File | Purpose |
-| :-: | :--- | :--- |
-| 💻 | `expense_tracker.c` | The complete C source code. |
-| 📖 | `README.md` | This project guide. |
-| 📒 | `expenses.txt` | Your saved entries, created when data is saved. |
-| 📝 | `expenses.tmp` | Temporary file used during saving. |
-| 🛟 | `expenses.bak` | Previous data file kept during replacement. |
-
-🔍 The data file begins with a format marker and the next ID. Each later line stores one record, with fields separated by `|`.
-
-🛡️ If a save fails, the add or delete is rolled back in memory. If the main file is missing but a backup exists, the program stops and asks you to restore it. If saved data fails the checks, the program stops rather than overwriting it.
-
-⚠️ The backup is a basic safeguard. It is not a full recovery system. Existing backup files can cause later saves to fail on Windows because of how file renaming works. Keep a separate copy of important data and check error messages.
-
-## ✅ Input Rules
-| | Input | Rule |
-| :-: | :--- | :--- |
-| 🔢 | Menu | Whole numbers from 0 to 6. |
-| 📅 | Date | A real date from 1900 to 9999, written as `YYYY-MM-DD`. |
-| 💵 | Amount | BDT 0.01 to 1,000,000,000.00, with at most two decimal places. |
-| 📂 | Category | Up to 30 characters; nonblank printable English text. |
-| 📝 | Note | Up to 80 characters; type `None` if no note is needed. |
-| 🚫 | Separator | Do not use the pipe symbol in category or note. |
-
-## 🚀 Run the Project
-🧰 Install a C compiler such as GCC first. VS Code needs a compiler installed separately.
-
-📥 **1. Clone the repository**
-```bash
-git clone https://github.com/SyntaxMaruf/Personal-Expense-Tracker.git
-cd Personal-Expense-Tracker
-```
-
-🔨 **2. Compile**
-```bash
-gcc -std=c11 -Wall -Wextra expense_tracker.c -o expense_tracker
-```
-
-▶️ **3. Run on Windows PowerShell**
-```powershell
-.\expense_tracker.exe
-```
-
-▶️ **3. Run on Linux or macOS**
-```bash
-./expense_tracker
-```
-
-📂 Run the program from the same folder each time. It reads and writes data in the current working folder.
-
-## 🧪 Validation
-✅ The supplied source compiled with GCC using `-std=c11 -Wall -Wextra -Werror`.
-
-🔍 See the source and the rules above for what the program checks. Passing a compile check does not prove every possible situation is covered.
-
-## 📚 C Concepts Used
-🧱 **Structures and arrays:** keep related entry fields together and hold records in memory.
-
-🔁 **Loops and conditions:** repeat the menu, inspect entries, and choose actions.
-
-🧩 **Functions:** split input, calculations, display, and saving into smaller jobs.
-
-🔤 **Strings and parsing:** read text, compare dates, and convert input into numbers.
-
-📁 **File handling:** use `fopen`, `fprintf`, `fgets`, `fclose`, and `rename` to save and load records.
-
-## 🔎 Limits and Future Ideas
-📦 This version allows **1000 successful additions in total**. Deleted IDs are not reused, so deleting entries does not restore the addition allowance.
-
-💻 This is a local terminal program for one user. It has no login, encryption, database, or cloud sync. Avoid running two copies against the same data file.
-
-🛠️ Editing entries, category totals, search, CSV export, and stronger backup recovery are future ideas. They are not included in this version.
-
-## 🙌 Support
-⭐ If this project helps you learn, feel free to give it a star.
-
-👨‍💻 **Maruf Billah · CSE · Daffodil International University**
-
+</div>
