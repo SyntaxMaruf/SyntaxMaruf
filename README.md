@@ -13,9 +13,7 @@
 **`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>** <br><div align="center">
 
 [![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=0b0f0c&labelColor=0b0f0c)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site)
-
 </div></br>
-
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
