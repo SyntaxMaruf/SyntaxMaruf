@@ -5,8 +5,8 @@
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/SyntaxMaruf?style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
-![Repos](https://img.shields.io/badge/REPOS-4-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSyntaxMaruf&query=%24.followers&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSyntaxMaruf&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=git&logoColor=white&color=3DDC84&labelColor=0b0f0c)
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
 ### **Code • Learn • Build • Debug • Repeat**
