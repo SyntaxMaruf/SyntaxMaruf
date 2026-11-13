@@ -6,7 +6,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=SyntaxMaruf&style=for-the-badge&color=3DDC84&labelColor=0b0f0c&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/SyntaxMaruf?style=for-the-badge&logo=github&logoColor=white&color=FFB000&labelColor=0b0f0c)
-![Repos](https://img.shields.io/badge/REPOS-3-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
+![Repos](https://img.shields.io/badge/REPOS-4-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f0c)
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
 ### **Code • Learn • Build • Debug • Repeat**
@@ -55,9 +55,16 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 
 | 📁 Repository | 📝 What's inside | 🛠️ Stack |
 |:--|:--|:--:|
+| [**DIU-Bus-Seat-Booking-System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets | `C` |
 | [**Restaurant-Order-System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo | `C` |
 | [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes | `C` |
 | [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
+
+<div align="center">
+
+[![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=0b0f0c&labelColor=0b0f0c)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site)
+
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
