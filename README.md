@@ -32,6 +32,20 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+## 🗂️ My Coding Journey
+
+| 📁 Repository | 📝 What's inside | 🛠️ Stack |
+|:--|:--|:--:|
+| [**Restaurant Order System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo. | `C` |
+| [**DIU Bus Seat Booking System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets. | `C` |
+| [**Income & Expense Tracker**](https://github.com/SyntaxMaruf/Personal-Expense-Tracker) | Track income, record expenses, and see where your money goes. | `C` |
+| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes. | `C` |
+| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place. | `Resources` |
+
+
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
 ## 🧰 Tech Arsenal
 
  ### 💻 Programming Languages
@@ -49,20 +63,6 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 ![DSA](https://img.shields.io/badge/Data_Structures-Learning-3DDC84?style=for-the-badge&labelColor=0b0f0c)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Learning-FFB000?style=for-the-badge&labelColor=0b0f0c)
 ![Linux](https://img.shields.io/badge/Linux-Exploring-3DDC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=0b0f0c)
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## 🗂️ My Coding Journey
-
-| 📁 Repository | 📝 What's inside | 🛠️ Stack |
-|:--|:--|:--:|
-| [**Restaurant Order System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo. | `C` |
-| [**DIU Bus Seat Booking System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets. | `C` |
-| [**Income & Expense Tracker**](https://github.com/SyntaxMaruf/Personal-Expense-Tracker) | Track income, record expenses, and see where your money goes. | `C` |
-| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes. | `C` |
-| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place. | `Resources` |
-
-
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
