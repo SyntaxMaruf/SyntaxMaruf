@@ -10,7 +10,11 @@
 ![Language](https://img.shields.io/badge/MAIN_LANG-C-FFB000?style=for-the-badge&logo=c&logoColor=white&labelColor=0b0f0c)
 
 ### **Code • Learn • Build • Debug • Repeat**
-**`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>**
+**`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>** <br><div align="center">
+
+[![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=0b0f0c&labelColor=0b0f0c)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site)
+
+</div></br>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -60,11 +64,7 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 | [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes | `C` |
 | [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
 
-<div align="center">
 
-[![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=0b0f0c&labelColor=0b0f0c)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site)
-
-</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
