@@ -56,10 +56,11 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 
 | 📁 Repository | 📝 What's inside | 🛠️ Stack |
 |:--|:--|:--:|
-| [**DIU-Bus-Seat-Booking-System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets | `C` |
-| [**Restaurant-Order-System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo | `C` |
-| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes | `C` |
-| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place | `Resources` |
+| [**Restaurant Order System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo. | `C` |
+| [**DIU Bus Seat Booking System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets. | `C` |
+| [**Income & Expense Tracker**](https://github.com/SyntaxMaruf/Personal-Expense-Tracker) | Track income, record expenses, and see where your money goes. | `C` |
+| [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes. | `C` |
+| [**Google-Drive-Link**](https://github.com/SyntaxMaruf/Google-Drive-Link) | Notes, PDFs and extra resources in one place. | `Resources` |
 
 
 
