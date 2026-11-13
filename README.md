@@ -32,7 +32,7 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🗂️ My Coding Journey
+## 🗂️ My Coding Journey / Projects
 
 | 📁 Repository | 📝 What's inside | 🛠️ Stack |
 |:--|:--|:--:|
