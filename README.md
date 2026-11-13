@@ -12,7 +12,16 @@
 ### **Code • Learn • Build • Debug • Repeat**
 **`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>** <br><div align="center">
 
-[![Explore My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=0b0f0c&labelColor=0b0f0c)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site)
+ 
+<p align="center">
+  <a href="https://syntaxmaruf-portfolio.curly-river4.chatgpt.site">
+    <img
+      src="https://raw.githubusercontent.com/SyntaxMaruf/SyntaxMaruf/HEAD/portfolio-card.png"
+      alt="Meet the Developer — Maruf Billah | Explore my projects and learning journey. | Visit My Portfolio →"
+      width="100%"
+    />
+  </a>
+</p>
 
 </div></br>
 
