@@ -39,6 +39,7 @@ Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Compu
 | [**Restaurant Order System**](https://github.com/SyntaxMaruf/Restaurant-Order-System) | My first complete C project, from menu to final cash memo. | `C` |
 | [**DIU Bus Seat Booking System**](https://github.com/SyntaxMaruf/DIU-Bus-Seat-Booking-System) | Book DIU bus seats, calculate route fares, and cancel tickets. | `C` |
 | [**Income & Expense Tracker**](https://github.com/SyntaxMaruf/Personal-Expense-Tracker) | Track income, record expenses, and see where your money goes. | `C` |
+| [**DIU Student Management System**](https://github.com/SyntaxMaruf/DIU-Student-Management-System) | Manage student records, course results, and GPA using a linked list. | `C` |
 | [**Data Structures**](https://github.com/SyntaxMaruf/Lab-Evaluation-1) | A complete collection of linked list codes. | `C` |
 | [**Google-Drive-Link**](https://drive.google.com/drive/folders/1-YyARXTjSfatbbp73LlySeIkidu5U5WP) | Notes, PDFs and extra resources in one place. | `Resources` |
 
