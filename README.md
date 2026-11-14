@@ -90,7 +90,7 @@ Python             ▰▱▱▱▱▱▱▱▱▱  10%   ← loading...
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🧩 Problem Solving Arena
-<br>
+
 [![TOPH](https://img.shields.io/badge/TOPH-200%2B%20Solved-1F8ACB?style=for-the-badge&logo=TOPH&logoColor=white&labelColor=0d1117)](https://toph.co/u/techie_Maruf)<br>
 [![Codeforces](https://img.shields.io/badge/Codeforces-Active-39ff14?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/profile/techie_Maruf)<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/techie_Maruf/)<br>
