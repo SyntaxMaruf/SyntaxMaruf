@@ -12,7 +12,7 @@
 ### **Code • Learn • Build • Debug • Repeat**
 **`SyntaxMaruf` • <b>CSE</b> • <b>Daffodil International University</b>** <br><div align="center">
 
-[![Maruf Billah — Visit My Portfolio](portfolio-banner.svg)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site/)</div></br>
+[![Maruf Billah — Visit My Portfolio](portfolio-banner.svg)](https://syntaxmaruf.github.io/)</div></br>
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
