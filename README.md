@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Assalamualikum, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
+Hi, I'm **Maruf Billah**, also known as **SyntaxMaruf**. I'm a Computer Science and Engineering student at **Daffodil International University**, and I'm training myself to think in code. <br>I love writing **C**, cracking problems on competitive programming platforms, and turning small ideas into programs that actually work. My dream is to become a **Cybersecurity Engineer** and an **AI Engineer**, so every day I sharpen the basics: logic, problem solving and clean code. Next on my list is **Python**.
 
 🏫 **University:** Daffodil International University <br>
 💻 **Department:** Computer Science & Engineering <br>
